@@ -1,5 +1,5 @@
-# DigitalInnovationOne-Bootcamp
-Desenvolver websites utilizando HTML, CSS e JavaScript para o desenvolvimento web front-end.
+# Digital Innovation One-Bootcamp
+Desenvolvimento web front-end utilizando HTML, CSS e JavaScript.
 
 https://web.dio.me/track/html-web-developer
 
