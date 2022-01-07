@@ -1,4 +1,4 @@
-# Digital Innovation One-Bootcamp
+# Digital Innovation One - Bootcamp
 Desenvolvimento web front-end utilizando HTML, CSS e JavaScript.
 
 https://web.dio.me/track/html-web-developer
