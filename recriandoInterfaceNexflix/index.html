@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang=pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style/main.css">
+
+  <!-- responsividade -->
+  <link rel="stylesheet" href="./style/responsive.css">
+
+  <!-- owl css -->
+  <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
+  <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+
+  <title>Star Wars Flix</title>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h2 class="logo">
+        Star Wars Flix
+      </h2>
+      <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Séries</a>
+        <a href="#">Filmes</a>
+        <a href="#">Documentários</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="filme-principal">
+      <div class="container">
+        <h3 class="titulo">O LIVRO DE BOBA FETT</h3>
+        <p class="descricao">Uma emocionante aventura Star Wars que encontra o lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba, o Hutt e seu sindicato do crime.</p>
+        <div class="botoes">
+          <button role="button" class="botao" onclick="assistirAgora()">
+            <i class="fas fa-play"></i>
+            ASSISTIR AGORA
+          </button>
+          <button role="button" class="botao" onclick="maisInformacoes()">
+            <i class="fas fa-info-circle"></i>
+            MAIS INFORMAÇÕES
+          </button>
+        </div>
+      </div>
+    </div>
+  </main>
+  
+  <div class="carrosel-filmes">
+    <div class="owl-carousel owl-theme">
+      <div class="item">
+        <img class="box-filme" src="./img/mini01.jpg" alt="Filme 01">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini02.jpg" alt="Filme 02">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini03.jpg" alt="Filme 03">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini04.jpg" alt="Filme 04">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini05.jpg" alt="Filme 05">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini06.jpg" alt="Filme 06">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini07.jpg" alt="Filme 07">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini08.jpg" alt="Filme 08">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini09.jpg" alt="Filme 09">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="./img/mini10.jpg" alt="Filme 10">
+      </div>
+    </div>
+  </div>
+
+  <!-- icones -->
+  <script src="https://kit.fontawesome.com/1a32ae6653.js" crossorigin="anonymous"></script>
+  
+  <!-- owl javascritp -->
+  <script src="./js/owl/jquery.min.js"></script>
+  <script src="./js/owl/owl.carousel.min.js"></script>
+  <script src="./js/owl/setup.js"></script>
+  <script src="./js/main.js"></script>
+
+</body>
+</html>
