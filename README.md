@@ -4,6 +4,8 @@
 
 https://web.dio.me/track/html-web-developer
 
+Certicado Bootcamp: https://certificates.digitalinnovation.one/9A05FDA5
+
 ## Recriando a página inicial do Instagram
 Nesse projeto o desafio de reconstruir a página de login do Instagram. Para isso, é recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
 
@@ -18,3 +20,10 @@ Certificado de conclusão: https://certificates.digitalinnovation.one/89B09521
 Clonando a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Esse projeto foi utilizado a forma de como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
 Certificado de conclusão: https://certificates.digitalinnovation.one/6A492DBD
+
+## Jogo da cobrinha
+Desenvolvimento de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. Realizado algumas implementações de melhoria do jogo.
+
+Certificado de conclusão: https://certificates.digitalinnovation.one/D3915999
+
+
